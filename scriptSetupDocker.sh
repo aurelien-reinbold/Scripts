@@ -34,7 +34,6 @@ apt-get install -y \
 	docker-buildx-plugin \
 	docker-compose-plugin
 
-docker run hello-world
 
 if [ ! -z $1 ];
 then
